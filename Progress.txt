@@ -1,5 +1,7 @@
 ##NABIL Student Id 242UC2456L
 -Worked on the Mobile App on Figma
+-Create the folder for Git Hub
+-Add Screenshot of the mobile app
 
 #KUTAIBA Student Id 242UC241CY 
 -Worked on website  
