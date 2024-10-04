@@ -1,10 +1,5 @@
 # Project Name
-This is a project to demonstrate [the project’s functionality].
-
-## Installation
-- Clone the repository
-- Install dependencies
-- Run the application
+Cryptix
 
 ## Usage
-Describe how to use the project with examples.
+It protects your data from any virus on any platform
