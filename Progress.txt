@@ -6,8 +6,13 @@
 #KUTAIBA Student Id 242UC241CY 
 -Worked on website  
 
-##AFIQ
+##AFIQ Student Id 242UC2432Z 
+-Worked on the user manual
 
-##CHUA SHENG YUAN
+##CHUA SHENG YUAN Student Id 242UC243Y1 
+-Worked on the Mobile App on Figma
+-Design the UI for the VPN
+-Editing the video
 
-##Ng GUAN XIANG
+##Ng GUAN XIANG Student Id 242UC241QD 
+-Worked on the Mobile App on Figma
